@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FInal Project", "FInal Project.vcxproj", "{323390E1-4908-46F4-9EF6-9F58424E450B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		jacob5|x64 = jacob5|x64
+		jacob5|x86 = jacob5|x86
+		palindrome|x64 = palindrome|x64
+		palindrome|x86 = palindrome|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+		smallLog|x64 = smallLog|x64
+		smallLog|x86 = smallLog|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{323390E1-4908-46F4-9EF6-9F58424E450B}.Debug|x64.ActiveCfg = Debug|x64
+		{323390E1-4908-46F4-9EF6-9F58424E450B}.Debug|x64.Build.0 = Debug|x64
+		{323390E1-4908-46F4-9EF6-9F58424E450B}.Debug|x86.ActiveCfg = Debug|Win32
+		{323390E1-4908-46F4-9EF6-9F58424E450B}.Debug|x86.Build.0 = Debug|Win32
+		{323390E1-4908-46F4-9EF6-9F58424E450B}.jacob5|x64.ActiveCfg = jacob5|x64
+		{323390E1-4908-46F4-9EF6-9F58424E450B}.jacob5|x64.Build.0 = jacob5|x64
+		{323390E1-4908-46F4-9EF6-9F58424E450B}.jacob5|x86.ActiveCfg = jacob5|Win32
+		{323390E1-4908-46F4-9EF6-9F58424E450B}.jacob5|x86.Build.0 = jacob5|Win32
+		{323390E1-4908-46F4-9EF6-9F58424E450B}.palindrome|x64.ActiveCfg = palindrome|x64
+		{323390E1-4908-46F4-9EF6-9F58424E450B}.palindrome|x64.Build.0 = palindrome|x64
+		{323390E1-4908-46F4-9EF6-9F58424E450B}.palindrome|x86.ActiveCfg = palindrome|Win32
+		{323390E1-4908-46F4-9EF6-9F58424E450B}.palindrome|x86.Build.0 = palindrome|Win32
+		{323390E1-4908-46F4-9EF6-9F58424E450B}.Release|x64.ActiveCfg = Release|x64
+		{323390E1-4908-46F4-9EF6-9F58424E450B}.Release|x64.Build.0 = Release|x64
+		{323390E1-4908-46F4-9EF6-9F58424E450B}.Release|x86.ActiveCfg = Release|Win32
+		{323390E1-4908-46F4-9EF6-9F58424E450B}.Release|x86.Build.0 = Release|Win32
+		{323390E1-4908-46F4-9EF6-9F58424E450B}.smallLog|x64.ActiveCfg = smallLog|x64
+		{323390E1-4908-46F4-9EF6-9F58424E450B}.smallLog|x64.Build.0 = smallLog|x64
+		{323390E1-4908-46F4-9EF6-9F58424E450B}.smallLog|x86.ActiveCfg = smallLog|Win32
+		{323390E1-4908-46F4-9EF6-9F58424E450B}.smallLog|x86.Build.0 = smallLog|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E18000F4-BF0A-4674-90D2-C822491E310D}
+	EndGlobalSection
+EndGlobal
